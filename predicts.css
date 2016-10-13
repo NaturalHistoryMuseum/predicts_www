@@ -32,9 +32,9 @@
   display: block;
 }
 
-.logo a {
+a.logo {
   text-decoration: none;
-  border: none;
+  border-bottom: none;
 }
 
 .logo:hover {
