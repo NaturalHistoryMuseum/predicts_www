@@ -38,7 +38,7 @@ Documentation for the
 theme.
 
 # Release
-Edit `pelicanconf.py` and set `SITEURL=''`.
+Edit `pelicanconf.py` and set `SITEURL='https://naturalhistorymuseum.github.io/predicts_www/'`.
 
 ```
 rm -rf output && make html
