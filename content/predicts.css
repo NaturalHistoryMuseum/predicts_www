@@ -1,0 +1,63 @@
+.photo {
+    border-radius: 5px;
+}
+
+.photowide {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photoportrait {
+  width: 250px;
+}
+
+.photolandscape {
+  width: 275px;
+}
+
+.photoright {
+  float: right;
+  margin-left: 10px;
+}
+
+.photoleft {
+  float: left;
+  margin-right: 10px;
+}
+
+.photofull {
+  width: 100%;
+  display: block;
+}
+
+.logo:hover {
+  background: none;
+}
+
+.logo img {
+  max-width: 120px;
+  max-height: 70px;
+}
+
+figcaption {
+  font-size: 14px;
+  margin: 25px;
+}
+
+.clear {
+  clear: both;
+}
+
+.buttonTweet {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 50px;
+  background-image: url("./images/logos/twitter-logo.png");
+  background-size: 30px;
+  background-position: 5px 50%;
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
