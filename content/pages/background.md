@@ -115,33 +115,33 @@ PREDICTS is a partnership between:
 
 <div style="text-align: center">
   <a href="http://www.nhm.ac.uk/" target="_blank" class="logo">
-    <img src="/images/logos/nhm.jpg"
+    <img src="../images/logos/nhm.jpg"
          alt="Natural History Museum logo"/>
   </a>
   <a href="http://www3.imperial.ac.uk/" target="_blank" class="logo">
-    <img src="/images/logos/imperial.jpg"
+    <img src="../images/logos/imperial.jpg"
          alt="Imperial College London logo"/>
   </a>
   <a href="http://www.unep-wcmc.org/" target="_blank" class="logo">
-    <img src="/images/logos/unep_wcmc.jpg"
+    <img src="../images/logos/unep_wcmc.jpg"
          alt="UNEP-WCMC logo"/>
   </a>
 </div>
 
 <div style="text-align: center">
   <a href="http://www.swansea.ac.uk/" target="_blank" class="logo">
-    <img src="/images/logos/university_of_swansea.jpg"
+    <img src="../images/logos/university_of_swansea.jpg"
          alt="University of Swansea logo"/>
   </a>
   <a href="http://research.microsoft.com" target="_blank" class="logo">
-    <img src="/images/logos/microsoft_research.jpg"
+    <img src="../images/logos/microsoft_research.jpg"
          alt="Microsoft Research logo"/>
   </a>
   <a href="https://www.ucl.ac.uk/" target="_blank" class="logo">
-    <img src="/images/logos/ucl.png" alt="UCL logo"/>
+    <img src="../images/logos/ucl.png" alt="UCL logo"/>
   </a>
   <a href="http://www.sussex.ac.uk/" target="_blank" class="logo">
-    <img src="/images/logos/sussex.png"
+    <img src="../images/logos/sussex.png"
          alt="University of Sussex logo"/>
   </a>
 </div>
@@ -152,18 +152,18 @@ PREDICTS is a partnership between:
 
 <div style="text-align: center">
   <a href="http://www.nerc.ac.uk/" target="_blank" class="logo">
-    <img src="/images/logos/nerc.png" alt="NERC logo"/>
+    <img src="../images/logos/nerc.png" alt="NERC logo"/>
   </a>
   <a href="http://research.microsoft.com" target="_blank" class="logo">
-    <img src="/images/logos/microsoft_research.jpg"
+    <img src="../images/logos/microsoft_research.jpg"
          alt="Microsoft Research logo"/>
   </a>
   <a href="http://www.arcadiafund.org.uk/" target="_blank" class="logo">
-    <img src="/images/logos/arcadia.jpg"
+    <img src="../images/logos/arcadia.jpg"
          alt="Arcadia logo"/>
   </a>
   <a href="http://royalsociety.org/" target="_blank" class="logo">
-    <img src="/images/logos/royal_society.png"
+    <img src="../images/logos/royal_society.png"
          alt="Royal Society logo"/>
   </a>
 </div>
