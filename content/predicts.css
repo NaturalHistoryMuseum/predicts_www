@@ -32,13 +32,18 @@
   display: block;
 }
 
+.logo a {
+  text-decoration: none;
+}
+
 .logo:hover {
-  background: none;
+    text-decoration: none
 }
 
 .logo img {
   max-width: 120px;
   max-height: 70px;
+  margin: 5px;
 }
 
 figcaption {

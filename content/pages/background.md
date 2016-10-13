@@ -91,28 +91,6 @@ project. If you think you may have data to contribute to the project, please
 
 PREDICTS is a partnership between:
 
-<style>
-.logo a {
-  text-decoration: none;
-  border: none;
-}
-
-.logo a {
-  text-decoration: none;
-  border: none;
-}
-
-.logo:hover {
-  text-decoration: none
-}
-
-.logo img {
-  margin: 5px;
-  max-width: 120px;
-  max-height: 70px;
-}
-</style>
-
 <div style="text-align: center">
   <a href="http://www.nhm.ac.uk/" target="_blank" class="logo">
     <img src="../images/logos/nhm.jpg"
