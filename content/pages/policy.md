@@ -45,7 +45,7 @@ dairy pasture that surrounds it. (From Newbold et al. 2016)
 
 <figure markdown="1">
   <figcaption>
-    ![Preliminary global map of LBII for species richness from Newbold *et al*. in prep.](/images/LBII-figure1.jpg){class="photofull"}
+    ![Preliminary global map of LBII for species richness from Newbold *et al*. in prep.]({filename}/images/LBII-figure1.jpg){class="photofull"}
     **Figure 1.** Preliminary global map of LBII for species richness, expressed
     as a percentage, with inset showing how LBII picks out Egmont National Park
     from the dairy pasture that surrounds it. (From Newbold <em>et al.</em> 2016)
@@ -68,7 +68,7 @@ scenarios<sup>6</sup>. Grey shading and error bars show 95% confidence intervals
 (from Newbold et al. 2015 Nature 520:45-50.)
 
 <figure markdown="1">
-  ![Projected net change in local species richness worldwide from 1500 to 2095](/images/LBII-figure2.jpg){class="photofull"}
+  ![Projected net change in local species richness worldwide from 1500 to 2095]({filename}/images/LBII-figure2.jpg){class="photofull"}
   <figcaption>
     **Figure 2.** Projected net change in local species richness
       worldwide from 1500 to 2095; LBII additionally discounts species not in the

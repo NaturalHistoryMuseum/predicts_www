@@ -16,7 +16,7 @@ humans affect earthworms and how this influences soil health. The project
 launched April 2016 and is expected to run for at least two years - focussing on
 spring and autumn to coincide when earthworms are most active.
 
-![Photo of an earthworm by Victoria Burton](/images/photos/vb1.jpg){class="photo photolandscape photoleft"}
+![Photo of an earthworm by Victoria Burton]({filename}/images/photos/vb1.jpg){class="photo photolandscape photoleft"}
 
 ## Project Background
 
@@ -38,7 +38,7 @@ managed to promote earthworm populations and enhance the benefits they provide.
 
 ## Study design
 
-![Photo showing two sampling plots](/images/photos/vb2.jpg){class="photo photolandscape photoright"}
+![Photo showing two sampling plots]({filename}/images/photos/vb2.jpg){class="photo photolandscape photoright"}
 
 The survey requires digging a soil pit in two areas of different habitat e.g.,
 lawn/flowerbed (pictured) or management e.g., mulched/unmulched. For each soil
@@ -118,10 +118,11 @@ For further information, contact Victoria Burton or visit the
 1. Carpenter, D. et al. Mapping of earthworm distribution for the British Isles and Eire
    highlights the under-recording of an ecologically important group.
    *Biodiversity and Conservation* **21(2)** 475-485 (2012).
-2. [Smith, C. London: Garden city?](http://downloads.gigl.org.uk/website/Garden Research Full report.pdf).
+2. [Smith, C. London: Garden city?](http://downloads.gigl.org.uk/website/Garden Research Full report.pdf)
    (2010) IPCC. Summary for Policymakers. In Climate Change 2007: The Physical Science Basis.
    Contribution of Working Group I to the Fourth Assessment Report of the
    Intergovernmental Panel on Climate Change. Cambridge University Press,
    Cambridge, United Kingdom and New York, NY, USA.
-3. Newbold, T. et al. Global effects of land use on local terrestrial
-   biodiversity. *Nature* **520**, 45-50 (2015).
+3. Newbold, T. et al.
+   [Global effects of land use on local terrestrial biodiversity](http://www.nature.com/nature/journal/v520/n7545/full/nature14324.html
+   *Nature* **520**, 45-50 (2015).

@@ -6,7 +6,7 @@ community-level responses to a range of human pressures including agriculture,
 hunting, deforestation, introduction of invasive species and human population
 expansion.
 
-![Photo of a black caiman by Lawrence Hudson](/images/photos/lh8.jpg){class="photo photowide"}
+![Photo of a black caiman by Lawrence Hudson]({filename}/images/photos/lh8.jpg){class="photo photowide"}
 
 ## Ecological attributes
 
@@ -23,7 +23,7 @@ local endemics) in interaction with measures of anthropogenic pressures
 (e.g., type, intensity), to understand the response of biodiversity to different
 intensities of human threats.
 
-![Photo of a spider by Lawrence Hudson](/images/photos/lh10.jpg){class="photo photolandscape photoright"}
+![Photo of a spider by Lawrence Hudson]({filename}/images/photos/lh10.jpg){class="photo photolandscape photoright"}
 
 ## Measures of biodiversity
 
@@ -42,7 +42,7 @@ respond differently to anthropogenic pressure, and it is important to include
 as wide a range of species when considering global changes in biodiversity in
 response to human impact.
 
-![Photo of a damselfly by Lawrence Hudson](/images/photos/lh9.jpg){class="photo photolandscape photoleft"}
+![Photo of a damselfly by Lawrence Hudson]({filename}/images/photos/lh9.jpg){class="photo photolandscape photoleft"}
 
 ## Geographical characteristics and scales
 
@@ -53,7 +53,7 @@ species responses to human pressures may vary between biomes. PREDICTS aims to
 include data from all terrestrial biomes and geographical regions in order to
 gain a more complete picture of human impacts on global biodiversity.
 
-![Photo of a grasshopper by Lawrence Hudson](/images/photos/lh6.jpg){class="photo photoportrait photoright"}
+![Photo of a grasshopper by Lawrence Hudson]({filename}/images/photos/lh6.jpg){class="photo photoportrait photoright"}
 
 ## Scientific aims
 

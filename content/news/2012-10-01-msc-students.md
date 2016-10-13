@@ -16,4 +16,4 @@ Biodiversity, and Luci Kirkpatrick (project - Using phylogenetically
 derived measures to assess the impact of wild meat hunting in tropical
 regions) likewise obtained a Distinction on the MRes in Biosystematics.
 Well done to all of them!
-This abstracts are on the [outputs](/pages/outputs.html) page.
+This abstracts are on the [outputs]({filename}/pages/outputs.md) page.

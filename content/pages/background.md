@@ -8,7 +8,7 @@ predictions and inform global conservation policy.
 
 ## Conserving global biodiversity
 
-![Photo of two blue-footed boobies by Lawrence Hudson](/images/photos/lh5.jpg){class="photo photolandscape photoright"}
+![Photo of two blue-footed boobies by Lawrence Hudson]({filename}/images/photos/lh5.jpg){class="photo photolandscape photoright"}
 
 In 1993, the parties to the Convention on Biological Diversity made a commitment
 to reduce the rate of global biodiversity loss by 2010. However, global
@@ -21,7 +21,7 @@ Since 2010, the CBD has revised and updated their strategic plan, and developed
 the Aichi Biodiversity targets. PREDICTS hopes to inform and influence the
 implementation of policy to meet these targets.
 
-![Photo of a giraffe by Tim Newbold](/images/photos/tn3.jpg){class="photo photoportrait photoleft"}
+![Photo of a giraffe by Tim Newbold]({filename}/images/photos/tn3.jpg){class="photo photoportrait photoleft"}
 
 Vertebrate populations worldwide have declined by around one third since 1970.
 This decline has been most severe in the tropics and in freshwater ecosystems
@@ -48,7 +48,7 @@ intensifying. Human pressures include:
 * Invasive species
 * Climate change
 
-![Photo of a insect by Tim Newbold](/images/photos/tn2.jpg){class="photo photolandscape photoright"}
+![Photo of a insect by Tim Newbold]({filename}/images/photos/tn2.jpg){class="photo photolandscape photoright"}
 
 ## Ecosystem services
 
@@ -70,7 +70,7 @@ useful links for further reading:
 * [Loss of Biodiversity and Extinctions](http://www.globalissues.org/article/171/loss-of-biodiversity-and-extinctions)
 * [The Economics of Ecosystems and Biodiversity](http://www.teebweb.org/)
 
-![Photo of a spider monkey by Lawrence Hudson](/images/photos/lh4.jpg){class="photo photowide"}
+![Photo of a spider monkey by Lawrence Hudson]({filename}/images/photos/lh4.jpg){class="photo photowide"}
 
 ## Addressing limitations of biodiversity indicators
 

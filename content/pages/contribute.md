@@ -1,12 +1,12 @@
 Title: Contributing to the PREDICTS project
-Slug: Contribute
+Slug: contribute
 
 The PREDICTS project is collating data from published papers, but ecologists and
 conservationists often hold more substantial and detailed data than there is
 room to publish in standard papers. If you have data that you think might be
 suitable, we would love to hear from you!
 
-![Photo of a ladybird by Lawrence Hudson](/images/photos/lh11.jpg){class="photo photowide"}
+![Photo of a ladybird by Lawrence Hudson]({filename}/images/photos/lh11.jpg){class="photo photowide"}
 
 We are looking for diversity or community composition data collected from more
 than one terrestrial site using a standardised methodology. If you have
@@ -31,7 +31,7 @@ Thanks to the generous contributions of many people we have a large backlog of
 datasets that we have not yet had time to process, so we will not be able to
 incorporate new datasets quickly.
 
-![Photo of a bumblebee by Lawrence Hudson](/images/photos/lh12.jpg){class="photo photolandscape photoleft"}
+![Photo of a bumblebee by Lawrence Hudson]({filename}/images/photos/lh12.jpg){class="photo photolandscape photoleft"}
 
 ### Authorship and dissemination of data
 
@@ -49,7 +49,7 @@ available to the public.
 
 ## Take-down policy
 
-![Photo of a hummingbird by Lawrence Hudson](/images/photos/lh13.jpg){class="photo photoportrait photoright"}
+![Photo of a hummingbird by Lawrence Hudson]({filename}/images/photos/lh13.jpg){class="photo photoportrait photoright"}
 
 The PREDICTS project operates a 'take-down' policy, such that if we are notified
 of a potential breach of copyright, or a possible violation of any law

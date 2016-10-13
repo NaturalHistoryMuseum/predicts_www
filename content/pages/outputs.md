@@ -17,7 +17,7 @@ Title: Outputs
     records from over 29,000 sites, covering more than 50,000 species.
   <p>
   <p>If you would like your data to play a part, please visit our
-    <a href="/pages/contribute.html">contribution page</a> for more
+    <a href="./contribute.html">contribution page</a> for more
     information.
   </p>
 
@@ -26,8 +26,8 @@ Title: Outputs
     shown below. We will update this image regularly as the project
     progresses.
   </p>
-  <a href="/images/sites.png" id="data_map">
-    <img src="/images/sites.png" itemprop="image"
+  <a href="../images/sites.png" id="data_map">
+    <img src="../images/sites.png" itemprop="image"
          alt="Map of PREDICTS data sites" width="698" height="415"/>
   </a>
   <p>
@@ -45,7 +45,7 @@ Title: Outputs
     database relate to the numbers that are known to science. For many of
     these taxa, we're above 1% representation (solid line),
   </p>
-  <img src="/images/taxonomic_representativeness.png" itemprop="image"
+  <img src="../images/taxonomic_representativeness.png" itemprop="image"
        alt="Taxonomic representativeness of predicts data" width="698"
        height="433"/>
 </div>

@@ -1,6 +1,6 @@
 Title: Land use pressures and changes impacting Europe's bees
 
-[Adriana De Palma's](/pages/team.html#ADP) recently published
+[Adriana De Palma's]({filename}/pages/team.md#ADP) recently published
 [paper in the Journal of Applied Ecology](http://onlinelibrary.wiley.com/doi/10.1111/1365-2664.12524/abstract)
 focusses on how  European bees respond to land-use change. Adriana merged
 PREDICTS data on abundance and diversity of bees in Europe with information on

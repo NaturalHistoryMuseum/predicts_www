@@ -13,8 +13,8 @@ The first fully global analysis of the PREDICTS database is published today
     species at over 11,500 sites
 
 A special issue of our
-[newsletter](/pages/newsletters/PREDICTSNewsletterSpring2015Special.pdf)
-gives more detail. A [Q&A page](/pages/global_analysis_qanda.html) answers
+[newsletter]({filename}/newsletters/PREDICTSNewsletterSpring2015Special.pdf)
+gives more detail. A [Q&A page]({filename}/pages/global_analysis_qanda.md) answers
 some questions about the paper. There's a feature about the paper on the
 [NHM website](http://www.nhm.ac.uk/our-science/our-work/biodiversity/big-data-on-biodiversity.html)
 along with a

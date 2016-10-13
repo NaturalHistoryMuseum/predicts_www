@@ -1,7 +1,7 @@
 Title: Projecting the composition and diversity of bird communities in the present and future
 
-[Tim Newbold](/pages/team.html#TN) and
-[Jorn Scharlemann](/pages/team.html#JS) recently published a
+[Tim Newbold]({filename}/pages/team.md#TN) and
+[Jorn Scharlemann]({filename}/pages/team.md#JS) recently published a
 [paper](http://dx.doi.org/10.1111/geb.12186) using
 trait-based models of the response of bird species
 occurrence and abundance to land-use change to project the

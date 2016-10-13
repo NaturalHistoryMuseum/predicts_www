@@ -2,7 +2,7 @@ Title: The PREDICTS project
 URL:
 save_as: index.html
 
-![Photo of a hummingbird by Lawrence Hudson](/images/photos/lh1.jpg){class="photo photoportrait photoright"}
+![Photo of a hummingbird by Lawrence Hudson]({filename}/images/photos/lh1.jpg){class="photo photoportrait photoright"}
 
 PREDICTS - Projecting Responses of Ecological Diversity In Changing
 Terrestrial Systems - is a collaborative project aiming to use a meta-analytic

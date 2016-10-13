@@ -7,7 +7,7 @@ slug: newsletter
 </p>
 
 We publish a quarterly newsletter in which we describe the progress of the
-PREDICTS project. [Previous issues](/category/newsletter.html).
+PREDICTS project. [Previous issues](../category/newsletter.html).
 To unsubscribe, or for enquiries about our newsletter, please email us at
 [enquiries@predicts.org.uk](mailto:enquiries@predicts.org.uk).
 
