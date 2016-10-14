@@ -372,7 +372,7 @@ Title: Team
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
      class="person separator clearfix" id="SC">
   <h3>
-    <span itemprop="name">mughost Contu</span> - Technician
+    <span itemprop="name">Sara Contu</span> - Technician
   </h3>
   <img src="../images/team/sc1.jpg" class="photo photoleft"
        alt="Photo of Sara Contu" itemprop="image"/>
