@@ -37,8 +37,8 @@ a.logo {
   border-bottom: none;
 }
 
-.logo:hover {
-    text-decoration: none
+a.logo:hover {
+    border-bottom: none;
 }
 
 .logo img {
