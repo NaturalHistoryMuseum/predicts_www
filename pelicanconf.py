@@ -5,7 +5,6 @@ AUTHOR = 'Trustees of the Natural History Museum, London'
 SITENAME = 'PREDICTS'
 
 SITEURL = 'http://www.predicts.org.uk'
-SITEURL = 'https://naturalhistorymuseum.github.io/predicts_www'
 
 PATH = 'content'
 
