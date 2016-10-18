@@ -29,6 +29,7 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('github', 'https://github.com/NaturalHistoryMuseum/predicts_www/'),
+    ('twitter', 'https://twitter.com/search?f=tweets&vertical=default&q=%23PredictsProject')
 )
 
 MENUITEMS = (
