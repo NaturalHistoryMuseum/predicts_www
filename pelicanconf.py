@@ -55,7 +55,8 @@ BOOTSTRAP_THEME = 'readable'
 
 CUSTOM_CSS = 'predicts.css'
 
-STATIC_PATHS = ['images', 'predicts.css', 'newsletters']
+STATIC_PATHS = ['images', 'predicts.css', 'newsletters', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 FAVICON = 'images/predicts.ico'
 SITELOGO = 'images/predicts120.png'

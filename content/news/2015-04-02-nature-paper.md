@@ -1,7 +1,7 @@
 Title: Nature paper - Global effects of land use on local terrestrial biodiversity
 
-The first fully global analysis of the PREDICTS database is published today
-[in Nature](http://dx.doi.org/10.1038/nature14324). In brief:
+The first fully global analysis of the PREDICTS database is published today in
+[Nature](http://dx.doi.org/10.1038/nature14324). In brief:
 
 * Human-driven land use has caused an estimated fall of 13.6% worldwide in
     average local species-richness
