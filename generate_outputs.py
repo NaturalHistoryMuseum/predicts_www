@@ -52,10 +52,7 @@ shown below. We will update this image regularly as the project
 progresses.
 records from over 29,000 sites, covering more than 50,000 species.
 
-<a href="../images/sites.png" id="data_map">
-<img src="../images/sites.png" itemprop="image"
-     alt="Map of PREDICTS data sites" width="698" height="415"/>
-</a>
+[![Map of PREDICTS data sites]({filename}/images/sites-small.png)]({filename}/images/sites.png)
 
 Biomes in the above map are defined by The Nature Conservancy's
 [terrestrial ecoregions of the world](http://maps.tnc.org/gis_data.html) dataset.
@@ -68,9 +65,7 @@ rather than focus on the best-known clades. The graph below shows
 database relate to the numbers that are known to science. For many of
 these taxa, we're above 1% representation (solid line),
 
-<img src="../images/taxonomic_representativeness.png" itemprop="image"
-   alt="Taxonomic representativeness of predicts data" width="698"
-   height="433"/>
+[![Taxonomic representativeness of predicts data]({filename}/images/taxonomic_representativeness.png)]
 """)
 
     environment = Environment(loader=FileSystemLoader('templates'))
