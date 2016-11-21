@@ -1,0 +1,46 @@
+<div class="entry-content">
+   <h2>{{ title }}</h2>
+</div>
+<table class="table table-hover">
+{% for item in items %}
+  <tr>
+    <td>
+      {{ item.title|escape_latex }}
+
+      <br />{{ item.authors|escape_latex }}
+      {% if 'journal' in item or 'howpublished' in item %}
+        <br /><em>{{ item.journal or item.howpublished }}</em>
+      {% endif %}
+
+      {% if item.year %}
+        {{ item.year }}.
+      {% endif %}
+
+      {% if item.note %}
+        <br />{{ item.note|escape_latex }}
+      {% endif %}
+
+      {% if item.date %}
+        {{ item.date|escape_latex }}.
+      {% endif %}
+
+    </td>
+    <td class="col-md-2">
+      {% if item.doi %}
+        [<a href="https://dx.doi.org/{{ item.doi }}" target="_blank">open</a>]
+      {% elif item.url %}
+        [<a href="{{ item.url|escape_latex }}">open</a>]
+      {% endif %}
+
+      {% if item.doi %}
+        <i data-badge-popover="bottom"
+           data-badge-type="donut"
+           data-doi="{{ item.doi }}"
+           data-hide-no-mentions="true"
+           class="altmetric-embed">
+        </i>
+      {% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</table>

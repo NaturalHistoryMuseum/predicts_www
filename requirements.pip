@@ -1,5 +1,10 @@
+bibtexparser==0.6.2
 ghp-import==0.4.1
+Jinja2==2.8
 Markdown==2.6.7
 pelican==3.6.3
 python-dateutil==2.6.0
 requests==2.12.1
+
+# For testing
+nose

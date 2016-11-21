@@ -32,13 +32,20 @@
   display: block;
 }
 
-a.logo {
+a, a:hover, a:focus {
+  color: #4582ec;
   text-decoration: none;
   border-bottom: none;
 }
 
-a.logo:hover {
+.altmetric-embed a, .altmetric-embed a:hover {
+    text-decoration: none;
     border-bottom: none;
+}
+
+a.logo, a.logo:hover {
+  text-decoration: none;
+  border-bottom: none;
 }
 
 .logo img {
