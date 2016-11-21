@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Generates html outputs from bib
+"""Prints outputs page in Markdown format
 """
+import argparse
 import re
 import sys
 
@@ -33,6 +34,9 @@ def escape_latex(val):
 
 
 def main(args):
+    parser = argparse.ArgumentParser(description=__doc__)
+    args = parser.parse_args(args)
+
     print("""Title: Outputs
 
 <!-- Altmetrics -->
