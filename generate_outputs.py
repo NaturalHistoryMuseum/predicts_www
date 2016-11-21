@@ -58,7 +58,7 @@ records from over 29,000 sites, covering more than 50,000 species.
 </a>
 
 Biomes in the above map are defined by The Nature Conservancy's
-[terrestrial ecoregions of the world](http://maps.tnc.org/gis_data.html)"></a> dataset.
+[terrestrial ecoregions of the world](http://maps.tnc.org/gis_data.html)" dataset.
 Circle radii are proportional to log<sub>10</sub> of the number of samples at
 that location. Circles have the same degree of partial transparency.
 
