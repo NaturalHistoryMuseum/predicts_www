@@ -11,7 +11,7 @@ from bibtexparser.customization import convert_to_unicode
 def load_bib(bib):
     """Returns list of BibDatabase objects
     """
-    with open(bib) as bibtex_file:
+    with open(bib, encoding='utf8') as bibtex_file:
         parser = BibTexParser()
         parser.customization = convert_to_unicode
         # Find the url field of a misc entry
