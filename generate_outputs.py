@@ -37,7 +37,17 @@ def main(args):
     parser = argparse.ArgumentParser(description=__doc__)
     args = parser.parse_args(args)
 
-    print("""Title: Outputs
+    environment = Environment(loader=FileSystemLoader('templates'))
+    environment.filters['escape_latex'] = escape_latex
+    template = environment.get_template('outputs.html')
+    SECTIONS = (
+        ('Papers', 'papers.bib'),
+        ('Posters and presentations', 'presentations.bib'),
+        ('Datasets', 'data.bib')
+    )
+
+    with open('content/pages/outputs.md', 'w', encoding='utf8') as outfile:
+        outfile.write("""Title: Outputs
 
 <!-- Altmetrics -->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
@@ -70,21 +80,16 @@ database relate to the numbers that are known to science. For many of
 these taxa, we're above 1% representation (solid line),
 
 [![Taxonomic representativeness of predicts data]({filename}/images/taxonomic_representativeness.png)]
+
 """)
 
-    environment = Environment(loader=FileSystemLoader('templates'))
-    environment.filters['escape_latex'] = escape_latex
-    template = environment.get_template('outputs.html')
-    SECTIONS = (
-        ('Papers', 'papers.bib'),
-        ('Posters and presentations', 'presentations.bib'),
-        ('Datasets', 'data.bib')
-    )
-    for title, bib in SECTIONS:
-        bibliography = load_bib(bib)
-        for bib in bibliography:
-            bib['authors'] = format_authors(bib['author'])
-        print(template.render(**{'items': bibliography, 'title': title}))
+        for title, bib in SECTIONS:
+            bibliography = load_bib(bib)
+            for bib in bibliography:
+                bib['authors'] = format_authors(bib['author'])
+            outfile.write(
+                template.render(**{'items': bibliography, 'title': title})
+            )
 
 
 if __name__ == '__main__':
