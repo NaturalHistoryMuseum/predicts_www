@@ -1,4 +1,4 @@
-Title: Team
+﻿Title: Team
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
 
@@ -506,6 +506,39 @@ Title: Team
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="KSO">
+<h3>
+  <span itemprop="name">Katia Sanchez Ortiz</span> - PhD student
+</h3>
+<img src="../images/team/kso.jpg" class="photo photoportrait photoright"
+     alt="Photo of Katia Sanchez Ortiz" itemprop="image"/>
+<p itemprop="description">
+  Katia was a student on the
+  <a href="https://www.ucl.ac.uk/biosciences/masters/MResbec">MRes in
+    Biodiversity, Evolution &amp; Conservation</a>
+  at University College London. Her study focused on modelling the
+  response of island biodiversity to human impact. Katia graduated from
+  the <a href="http://www.uaem.mx/">Universidad Autónoma del Estado de Morelos</a>
+  (Mexico) in 2012 with an honours degree in Biology, and she is
+  currently funded by
+  <a href="http://www.conacyt.mx/">CONACyT</a> - the National Council
+  of Science and Technology of Mexico.
+</p>
+</div>
+
+
+<!-- PAST PROJECT MEMBERS HERE -->
+
+<div class="text-center">
+  <div class="btn btn-primary btn-lg toggleButton">Past project members</div>
+</div>
+
+<div class="pastMembers" style="display: none">
+
+
+
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="EC">
 <h3>
   <span itemprop="name">Emma Caton</span> - Master's Student
@@ -633,11 +666,6 @@ Title: Team
 </p>
 </div>
 
-<div class="text-center">
-  <div class="btn btn-primary btn-lg toggleButton">Past project members</div>
-</div>
-
-<div class="pastMembers" style="display: none">
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="GA">
 <h3>
@@ -1110,26 +1138,6 @@ Title: Team
 </p>
 </div>
 
-<div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="KSO">
-<h3>
-  <span itemprop="name">Katia Sanchez Ortiz</span> - Master's student
-</h3>
-<img src="../images/team/kso.jpg" class="photo photoportrait photoright"
-     alt="Photo of Katia Sanchez Ortiz" itemprop="image"/>
-<p itemprop="description">
-  Katia was a student on the
-  <a href="https://www.ucl.ac.uk/biosciences/masters/MResbec">MRes in
-    Biodiversity, Evolution &amp; Conservation</a>
-  at University College London. Her study focused on modelling the
-  response of island biodiversity to human impact. Katia graduated from
-  the <a href="http://www.uaem.mx/">Universidad Autónoma del Estado de Morelos</a>
-  (Mexico) in 2012 with an honours degree in Biology, and she is
-  currently funded by
-  <a href="http://www.conacyt.mx/">CONACyT</a> - the National Council
-  of Science and Technology of Mexico.
-</p>
-</div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="RS">
