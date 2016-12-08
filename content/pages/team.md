@@ -481,6 +481,27 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="KSO">
+<h3>
+  <span itemprop="name">Katia Sanchez Ortiz</span> - Master's student
+</h3>
+<img src="../images/team/kso.jpg" class="photo photoportrait photoright"
+     alt="Photo of Katia Sanchez Ortiz" itemprop="image"/>
+<p itemprop="description">
+  Katia graduated from the
+  <a href="http://www.uaem.mx/">Universidad Autónoma del Estado de Morelos</a>
+  (Mexico) in 2012 with an honours degree in Biology and she completed a
+  MRes in Biodiversity, Evolution &amp; Conservation at University College London.
+  Her PhD at Imperial College London focuses on human impact on islands
+  biodiversity, comparing patterns of biodiversity response to land-use change
+  on islands and mainlands. Her project also investigates whether native and
+  alien species on islands respond differently to land-use change.
+  Katia is currently funded by <a href="http://www.conacyt.mx/">CONACyT</a> -
+  the National Council of Science and Technology of Mexico.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
      class="person separator clearfix" id="HP">
   <h3>
     <span itemprop="name">Helen Phillips</span> - PhD student
@@ -1137,7 +1158,6 @@
   graduated with a degree in Environmental Science in 2013.
 </p>
 </div>
-
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="RS">
