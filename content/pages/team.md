@@ -293,32 +293,6 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-     class="person separator clearfix" id="CG">
-  <h3>
-    <span itemprop="honorificPrefix">Dr</span>
-    <span itemprop="name">Claudia Gray</span>
-    - Post-doctoral research associate
-  </h3>
-  <img src="../images/team/cg.jpg" class="photo photoportrait photoright"
-       alt="Photo of Claudia Gray" itemprop="image"/>
-  <p itemprop="description">
-    Claudia is a post-doc in
-    <a href="http://www.sussex.ac.uk/lifesci/scharlemannlab/">
-      J&ouml;rn Scharlemann's
-    </a> lab at the University of Sussex. She is interested in human
-    impacts on biodiversity and how scientific evidence can inform
-    environmental policy and natural resource management. Claudia did her
-    PhD at <a href="http://www.zoo.ox.ac.uk/">Oxford University</a>,
-    quantifying the impact of riparian zone management on biodiversity
-    and ecosystem services in oil palm plantations (within and around
-    the <a href="http://www.safeproject.net/">S.A.F.E. project</a>). She
-    also has an MSc in Biodiversity, Conservation and Management from
-    Oxford University, and did her undergraduate degree in Zoology at
-    Cambridge University.
-  </p>
-</div>
-
-<div itemprop="member" itemscope itemtype="http://schema.org/Person"
      class="person separator clearfix" id="LH">
   <h3>
     <span itemprop="honorificPrefix">Dr</span>
@@ -483,7 +457,7 @@
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="KSO">
 <h3>
-  <span itemprop="name">Katia Sanchez Ortiz</span> - Master's student
+  <span itemprop="name">Katia Sanchez Ortiz</span> - PhD student
 </h3>
 <img src="../images/team/kso.jpg" class="photo photoportrait photoright"
      alt="Photo of Katia Sanchez Ortiz" itemprop="image"/>
@@ -557,7 +531,31 @@
 <div class="pastMembers" style="display: none">
 
 
-
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+     class="person separator clearfix" id="CG">
+  <h3>
+    <span itemprop="honorificPrefix">Dr</span>
+    <span itemprop="name">Claudia Gray</span>
+    - Post-doctoral research associate
+  </h3>
+  <img src="../images/team/cg.jpg" class="photo photoportrait photoright"
+       alt="Photo of Claudia Gray" itemprop="image"/>
+  <p itemprop="description">
+    Claudia was a post-doc in
+    <a href="http://www.sussex.ac.uk/lifesci/scharlemannlab/">
+      J&ouml;rn Scharlemann's
+    </a> lab at the University of Sussex and is now an EDGE Fellow at the <a href = "http://www.edgeofexistence.org/community/member_info.php?id=245"> Zoological Society of London </a>. She is interested in human
+    impacts on biodiversity and how scientific evidence can inform
+    environmental policy and natural resource management. Claudia did her
+    PhD at <a href="http://www.zoo.ox.ac.uk/">Oxford University</a>,
+    quantifying the impact of riparian zone management on biodiversity
+    and ecosystem services in oil palm plantations (within and around
+    the <a href="http://www.safeproject.net/">S.A.F.E. project</a>). She
+    also has an MSc in Biodiversity, Conservation and Management from
+    Oxford University, and did her undergraduate degree in Zoology at
+    Cambridge University.
+  </p>
+</div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="EC">
