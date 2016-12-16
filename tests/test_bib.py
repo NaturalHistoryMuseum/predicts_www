@@ -1,6 +1,6 @@
 import unittest
 
-from generate import format_authors
+from bib import format_authors
 
 
 class TestBib(unittest.TestCase):
