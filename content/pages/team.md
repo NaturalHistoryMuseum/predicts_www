@@ -492,9 +492,9 @@
     team; investigating the effect on biodiversity of land-use change at
     a continent level – with particular focus on the transition of
     primary forest and secondary forest to plantation forests. For her
-    PhD, Helen is continuing to expand upon her Master's project, as
-    well as investigating the effect of habitat fragmentation on
-    biodiversity.
+    PhD, Helen continued to expand upon her Master's project, as
+    well as investigate the effect of habitat fragmentation on
+    biodiversity. Helen is now a postdoctoral researcher at the Idiv in Leipzig, Germany.
   </p>
 
   <p>Helen's PhD has been funded by a Hans Rausing Scholarship.</p>
