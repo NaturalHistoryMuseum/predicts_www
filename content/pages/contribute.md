@@ -8,12 +8,14 @@ suitable, we would love to hear from you!
 
 ![Photo of a ladybird by Lawrence Hudson]({filename}/images/photos/lh11.jpg){class="photo photowide"}
 
-We are looking for diversity or community composition data collected from more
-than one terrestrial site using a standardised methodology. If you have
-published data of this type and can provide us with additional detail, the
-contribution process is simple and easy.
+With the new phase of PREDICTS we are trying to collate biodiversity data from
+temporal comparisons, where terrestrial sites have been surveyed over time.
+We are particularly interested in obtaining before-after-control impact studies,
+but are also looking for before-after comparisons (which do not have control
+sites) and control-impact studies that sample for several years at known times
+after a land-use change.
 
-In particular the data we are looking for is as follows:
+In particular the data we are looking for are as follows:
 
 * Locations of sampling points, as precisely as possible (with the coordinate
     system used, if possible)
@@ -37,15 +39,15 @@ incorporate new datasets quickly.
 
 We are only able to use data that you are willing for us to make publicly
 available at least 18 months after receiving it. Contributors of data uploaded
-to the database by mid-2015 will be offered authorship on an open-access paper
-accompanying the first public release of the database, and will be acknowledged
-appropriately in all other publications for the project. We envisage publishing
-later updates to the database, again open-access, that will provide
-opportunities for later contributors to the database to be recognised with
-authorship. We recognise that there may be extremely good conservation reasons
-for not fully releasing species identities or plot localities in some instances.
-In such cases, we are of course willing to coarsen the information made
-available to the public.
+to the database by early-2016 were offered authorship on an
+[open-access paper](http://dx.doi.org/10.1002/ece3.2579) accompanying the 
+[first public release of the database](http://dx.doi.org/10.5519/0066354).
+We envisage publishing updates to the database, again open-access, that will
+provide opportunities for later contributors to the database to be recognised
+with authorship. We recognise that there may be extremely good conservation
+reasons for not fully releasing species identities or plot localities in some
+instances. In such cases, we are of course willing to coarsen the information
+made available to the public.
 
 ## Take-down policy
 
