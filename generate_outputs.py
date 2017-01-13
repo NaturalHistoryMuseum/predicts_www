@@ -54,7 +54,7 @@ def main(args):
 
 ## The PREDICTS database
 The PREDICTS database - which will form
-the basis of all our analyses – now has over 3.6 million biodiversity
+the basis of all our analyses - now has over 3.6 million biodiversity
 records from over 32,000 sites, covering more than 50,000 species.
 
 If you would like your data to play a part, please visit our
