@@ -10,6 +10,8 @@ is probably `c:\projects\predicts_www`, so you will run:
 cd \projects\predicts_www
 ```
 
+Then run
+
 ```
 workon predicts_www
 git pull
