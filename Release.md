@@ -42,7 +42,7 @@ Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
 
 4. Resize the image to 250 pixels in width and save to `content/images/team`
 
-# Developing
+# Testing you changes
 Edit `pelicanconf.py` and set `SITEURL=''`.
 
 ```
@@ -53,12 +53,13 @@ rm -rf output && make html
 
 Open http://localhost:8000.
 
+
+When you have finished testing
 ```
-# When finished
 ./develop_server.sh stop
 ```
 
-# Releasing
+# Upload your changes
 Edit `pelicanconf.py` and set `SITEURL = 'http://www.predicts.org.uk'`.
 
 ```
