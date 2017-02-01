@@ -42,7 +42,8 @@ Make sure that `Use Git from the Windows Command Prompt` is check
     cd \
     mkdir projects
     cd projects
-    git clone git@github.com:NaturalHistoryMuseum/predicts_www.git
+    git clone https://github.com/NaturalHistoryMuseum/predicts_www.git
+    cd predicts_www
     ```
 
 5. Install dependencies
