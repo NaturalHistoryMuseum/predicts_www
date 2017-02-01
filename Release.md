@@ -32,7 +32,17 @@ Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
 
 # Adding a news item
 
-# Developing
+# Adding a new member of the team
+
+1. Open `content\pages\team.md`
+
+2. Copy / paste the block for an existing team member
+
+3. Edit the name, description, image path, image alt text and id
+
+4. Resize the image to 250 pixels in width and save to `content/images/team`
+
+# Testing you changes
 Edit `pelicanconf.py` and set `SITEURL=''`.
 
 ```
@@ -43,12 +53,13 @@ rm -rf output && make html
 
 Open http://localhost:8000.
 
+
+When you have finished testing
 ```
-# When finished
 ./develop_server.sh stop
 ```
 
-# Releasing
+# Upload your changes
 Edit `pelicanconf.py` and set `SITEURL = 'http://www.predicts.org.uk'`.
 
 ```
