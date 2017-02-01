@@ -21,9 +21,21 @@ and install to the default location of `C:\`. Make sure that the option to
 add Python to the `PATH` is checked.
 
 2. Install the latest release of [git](https://git-scm.com/).
-Make sure that the option to add `git` to the `PATH` is checked.
+Make sure that `Use Git from the Windows Command Prompt` is check
 
-3. Clone this repo to your `projects` directory; if this is in `C:\'
+3. Start a Command prompt - click on the Start menu, select 'Run' and enter
+`cmd.exe`
+
+    ```
+    git config --global user.name "Your Name"
+    git config --global user.email "your@email.address"
+    ```
+
+    See https://help.github.com/articles/setting-your-email-in-git/ and
+    https://help.github.com/articles/setting-your-email-in-git/ for more
+    information.
+
+4. Clone this repo to your `projects` directory; if this is in `C:\'
 
     ```
     C:
@@ -33,7 +45,7 @@ Make sure that the option to add `git` to the `PATH` is checked.
     git clone git@github.com:NaturalHistoryMuseum/predicts_www.git
     ```
 
-4. Install dependencies
+5. Install dependencies
 
     ```
     python -m pip install -U pip setuptools

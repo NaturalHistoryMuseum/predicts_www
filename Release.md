@@ -1,8 +1,17 @@
 # Releasing the website
 
+Everything is done via the command prompt.
+On Windows, click on the Start menu, select 'Run' and enter `cmd.exe`.
+
+Change the current directory to wherever you cloned the `predicts_www`. This
+is probably `c:\projects\predicts_www`, so you will run:
+
+```
+cd \projects\predicts_www
+```
+
 ```
 workon predicts_www
-cd <wherever-you-cloned-the-predicts_www-repo>
 git pull
 python generate_outputs.py
 ```
