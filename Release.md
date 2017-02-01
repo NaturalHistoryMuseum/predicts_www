@@ -32,6 +32,16 @@ Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
 
 # Adding a news item
 
+# Adding a new member of the team
+
+1. Open `content\pages\team.md`
+
+2. Copy / paste the block for an existing team member
+
+3. Edit the name, description, image path, image alt text and id
+
+4. Resize the image to 250 pixels in width and save to `content/images/team`
+
 # Developing
 Edit `pelicanconf.py` and set `SITEURL=''`.
 
