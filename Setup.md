@@ -16,9 +16,12 @@ git clone git@github.com:quicklizard99/pelican-themes.git ../pelican-themes/
 
 ## If you are using Windows
 
-1. Download and install the latest release of [Python 3.x](https://www.python.org)
-and install to the default location of `C:\`. Make sure that the option to
-add Python to the `PATH` is checked.
+1. Download and install the latest release of Python 3.x
+
+    * From https://www.python.org
+    * Make sure you get the 64 bit version
+    * Install to the default location of `C:\`
+    * Check the option 'Add Python to environment variables'
 
 2. Install the latest release of [git](https://git-scm.com/).
 Make sure that `Use Git from the Windows Command Prompt` is check
@@ -52,9 +55,6 @@ Make sure that `Use Git from the Windows Command Prompt` is check
     python -m pip install -U pip setuptools
     pip install virtualenvwrapper-win
     mkvirtualenv predicts_www
-    ```
-
-    ```
     workon predicts_www
     cd \projects\predicts_www
     pip install -r requirements.pip
