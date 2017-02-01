@@ -2,6 +2,8 @@
 
 ```
 workon predicts_www
+cd <wherever-you-cloned-the-predicts_www-repo>
+git pull
 python generate_outputs.py
 ```
 
@@ -23,6 +25,7 @@ Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
 Edit `pelicanconf.py` and set `SITEURL=''`.
 
 ```
+python generate_outputs.py
 rm -rf output && make html
 ./develop_server.sh start
 ```
@@ -43,6 +46,3 @@ rm -rf output && make html
 ghp-import output
 git push origin gh-pages
 ```
-
-
-TODO ghp-import on windows
