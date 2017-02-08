@@ -548,6 +548,17 @@
 </p>
 </div>
 
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="JB">
+<h3>
+  <span itemprop="name">Mark Titley</span> - MRes student
+</h3>
+<img src="../images/team/mt.jpg" class="photo photoportrait photoright"
+     alt="Photo of Mark Titley" itemprop="image"/>
+<p itemprop="description">
+  Following his degree in Natural Sciences (Zoology) at the University of Cambridge, Mark worked for two months at UNEP-WCMC, where he first became involved with PREDICTS. Mark’s current research, for his MRes in Ecosystem and Environmental Change at Imperial College London, will investigate how biodiversity responds over time after small-scale deforestation.
+</p>
+</div>
 <!-- PAST PROJECT MEMBERS HERE -->
 
 <div class="text-center">
