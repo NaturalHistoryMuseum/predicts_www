@@ -75,7 +75,7 @@ When you have finished testing `CTRL+C`.
 
 ```
 git diff
-git add <files you have changed>    <- do change pelicanconf.py
+git add <files you have changed>    <- do not change pelicanconf.py
 git commit -m "<descriptive message of your change>"
 git push origin
 ```
