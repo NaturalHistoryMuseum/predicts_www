@@ -49,6 +49,10 @@ Make sure that `Use Git from the Windows Command Prompt` is check
     cd predicts_www
     ```
 
+
+git clone https://github.com/NaturalHistoryMuseum/pelican-themes.git c:\projects\pelican-themes
+
+
 5. Install dependencies
 
     ```
