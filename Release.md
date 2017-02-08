@@ -42,9 +42,10 @@ Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
 
 4. Resize the image to 250 pixels in width and save to `content/images/team`
 
-# Testing you changes
+# Testing your changes
 Edit `pelicanconf.py` and set `SITEURL=''`.
 
+## On a Mac
 ```
 python generate_outputs.py
 rm -rf output && make html
@@ -53,13 +54,33 @@ rm -rf output && make html
 
 Open http://localhost:8000.
 
-
 When you have finished testing
 ```
 ./develop_server.sh stop
 ```
 
-# Upload your changes
+## On Windows
+
+```
+python generate_outputs.py
+generate.bat
+serve.bat
+```
+
+Open http://localhost:8000.
+
+When you have finished testing `CTRL+C`.
+
+# Commit your changes to git
+
+```
+git diff
+git add <files you have changed>    <- do change pelicanconf.py
+git commit -m "<descriptive message of your change>"
+git push origin
+```
+
+# Upload the new website!
 Edit `pelicanconf.py` and set `SITEURL = 'http://www.predicts.org.uk'`.
 
 ```
