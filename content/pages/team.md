@@ -544,7 +544,7 @@
 <img src="../images/team/jb.jpg" class="photo photoportrait photoright"
      alt="Photo of Jack Bonnick" itemprop="image"/>
 <p itemprop="description">
-  I graduated in 2016 from Oxford Brookes University with a BSc (Hons) in Animal Biology and Conservation. I am currently studying an MRes in Biodiversity, Evolution and Conservation at University College London, in collaboration with ZSL and the Natural History Museum. My research project with the PREDICTS team will aim to develop models of how biofuel production impacts local biodiversity.
+  I graduated in 2016 from Oxford Brookes University with a BSc (Hons) in Animal Biology and Conservation. I am currently studying an MRes in Biodiversity, Evolution and Conservation at University College London, in collaboration with ZSL and the Natural History Museum. My research project with the PREDICTS team will focus on the effects of land use change on island biodiversity.
 </p>
 </div>
 
@@ -557,6 +557,18 @@
      alt="Photo of Mark Titley" itemprop="image"/>
 <p itemprop="description">
   Following his degree in Natural Sciences (Zoology) at the University of Cambridge, Mark worked for two months at UNEP-WCMC, where he first became involved with PREDICTS. Mark’s current research, for his MRes in Ecosystem and Environmental Change at Imperial College London, will investigate how biodiversity responds over time after small-scale deforestation.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="JB">
+<h3>
+  <span itemprop="name">Oliver Scott</span> - MRes student
+</h3>
+<img src="../images/team/os.jpg" class="photo photoportrait photoright"
+     alt="Photo of Oliver Scott" itemprop="image"/>
+<p itemprop="description">
+  Oliver is currently studying an MRes in Ecosystem and Environmental Change at Imperial College London. Having graduated with a degree in Biological Sciences from the University of Warwick in 2015, he spent a year working in a number of different industries before deciding to continue higher education. His project will focus on the functional traits responsible for resilience in ecosystems undergoing restoration.
 </p>
 </div>
 <!-- PAST PROJECT MEMBERS HERE -->
