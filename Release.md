@@ -69,9 +69,17 @@ Open http://localhost:8000.
 
 When you have finished testing `CTRL+C`.
 
-# Commit your changes to git
+# Commit your changes to git and release the website!
+
+See a list of which files have been changed, which are new and which have been
+deleted
+
+```
+git status
+```
 
 Double-check your changes
+
 ```
 git diff
 ```
@@ -81,9 +89,9 @@ Stage the files that you have changed. **Do not stage `pelicanconf.py`**.
 git add <files you have changed>    <- do not change pelicanconf.py
 ```
 
-Commit your changes and push to github.com
+Commit your the staged files and push to github.com
 ```
-git commit -m "<description of your changes>"
+git commit -m "A description of your changes"
 git push origin
 ```
 
@@ -93,7 +101,7 @@ on www.predicts.org.uk. We will do this next.
 Edit `pelicanconf.py` and set `SITEURL = 'http://www.predicts.org.uk'`.
 Copy/paste one of the following
 
-### On A mac
+### On a mac
 
 ```
 python generate_outputs.py
@@ -104,9 +112,11 @@ git push origin gh-pages
 
 ### On Windows
 
+Copy/paste the following
+
 ```
 python generate_outputs.py
-rmdir /Q /S dist build
+rmdir /Q /S output
 ghp-import output
 git push origin gh-pages
 ```
