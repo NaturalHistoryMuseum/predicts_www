@@ -4,15 +4,13 @@ Everything is done via the command prompt.
 On Windows, click on the Start menu, select 'Run' and enter `cmd.exe`.
 
 Change the current directory to wherever you cloned the `predicts_www`. This
-is probably `c:\projects\predicts_www`, so you will run:
+is probably `c:\projects\predicts_www`. You must also pull the repo
+so that you have changes made my other people. Simply copy/paste the following
+block into your command prompt:
 
 ```
+C:
 cd \projects\predicts_www
-```
-
-Then run
-
-```
 workon predicts_www
 git pull
 python generate_outputs.py
@@ -73,19 +71,42 @@ When you have finished testing `CTRL+C`.
 
 # Commit your changes to git
 
+Double-check your changes
 ```
 git diff
+```
+
+Stage the files that you have changed. **Do not stage `pelicanconf.py`**.
+```
 git add <files you have changed>    <- do not change pelicanconf.py
-git commit -m "<descriptive message of your change>"
+```
+
+Commit your changes and push to github.com
+```
+git commit -m "<description of your changes>"
 git push origin
 ```
 
-# Upload the new website!
+At this point, your changes are in the github.com repo but they are not yet
+on www.predicts.org.uk. We will do this next.
+
 Edit `pelicanconf.py` and set `SITEURL = 'http://www.predicts.org.uk'`.
+Copy/paste one of the following
+
+### On A mac
 
 ```
 python generate_outputs.py
 rm -rf output && make html
+ghp-import output
+git push origin gh-pages
+```
+
+### On Windows
+
+```
+python generate_outputs.py
+rmdir /Q /S dist build
 ghp-import output
 git push origin gh-pages
 ```
