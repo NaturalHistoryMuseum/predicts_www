@@ -16,21 +16,7 @@ git pull
 python generate_outputs.py
 ```
 
-## Adding images
-Resize appropriately before adding to the repo! `JPG` for photos and probably
-`PNG` for figures.
-
-## Releasing a news newsletter
-
-Compress the `PDF` before adding it to the repo e.g.,
-
-```
-Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
-```
-
-# Adding a news item
-
-# Adding a new member of the team
+## Adding a new member of the team
 
 1. Open `content\pages\team.md`
 
@@ -39,6 +25,21 @@ Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
 3. Edit the name, description, image path, image alt text and id
 
 4. Resize the image to 250 pixels in width and save to `content/images/team`
+
+## Releasing a newsletter
+
+Compress the `PDF` before adding it to the repo e.g.,
+
+```
+Rscript compress_pdf.R content/newsletters/PREDICTSNewsletterWinter2016.pdf
+```
+
+## Adding a news item
+
+## Adding images
+Resize appropriately before adding to the repo! `JPG` for photos and probably
+`PNG` for figures.
+
 
 # Testing your changes
 Edit `pelicanconf.py` and set `SITEURL=''`.
@@ -101,7 +102,7 @@ on www.predicts.org.uk. We will do this next.
 Edit `pelicanconf.py` and set `SITEURL = 'http://www.predicts.org.uk'`.
 Copy/paste one of the following
 
-### On a mac
+### On a Mac
 
 ```
 python generate_outputs.py
@@ -117,6 +118,7 @@ Copy/paste the following
 ```
 python generate_outputs.py
 rmdir /Q /S output
+generate
 ghp-import output
 git push origin gh-pages
 ```
