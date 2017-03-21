@@ -549,7 +549,7 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="JB">
+   class="person separator clearfix" id="MT">
 <h3>
   <span itemprop="name">Mark Titley</span> - MRes student
 </h3>
@@ -561,7 +561,7 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="JB">
+   class="person separator clearfix" id="OS">
 <h3>
   <span itemprop="name">Oliver Scott</span> - MRes student
 </h3>
@@ -573,7 +573,7 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="JB">
+   class="person separator clearfix" id="KT">
 <h3>
   <span itemprop="name">Kara Taylor</span> - MRes student
 </h3>
