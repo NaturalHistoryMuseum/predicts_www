@@ -571,6 +571,18 @@
   Oliver is currently studying an MRes in Ecosystem and Environmental Change at Imperial College London. Having graduated with a degree in Biological Sciences from the University of Warwick in 2015, he spent a year working in a number of different industries before deciding to continue higher education. His project will focus on the functional traits responsible for resilience in ecosystems undergoing restoration.
 </p>
 </div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="JB">
+<h3>
+  <span itemprop="name">Kara Taylor</span> - MRes student
+</h3>
+<img src="../images/team/kt.jpg" class="photo photoportrait photoright"
+     alt="Photo of Kara Taylor" itemprop="image"/>
+<p itemprop="description">
+  Kara graduated from the University of Chicago in 2015 with a BA in Anthropology and is now pursuing her MRes in Biosystematics at the NHM and Imperial College London. Kara's particular ecological interests are community assembly and, specifically niche-vs-neutral theory, as a framework for considering humans both as members of the ecological community and as strong factors influencing community assembly. Toward that end, Kara is using PREDICTSv1 to investigate how island characteristics create differential effects of anthropogenic disturbance and land use change for native vs alien species.
+</p>
+</div>
 <!-- PAST PROJECT MEMBERS HERE -->
 
 <div class="text-center">
