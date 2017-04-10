@@ -87,7 +87,7 @@ designed to meet the need for next-generation biodiversity indicators, providing
 
 Read more about the [scientific aims]({filename}/pages/the_science.md) of the PREDICTS
 project. If you think you may have data to contribute to the project, please
-[find out more]({filename}/pages/contribute.md).
+[find out more]({filename}/pages/get-involved.md).
 
 PREDICTS is a partnership between:
 

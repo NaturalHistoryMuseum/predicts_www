@@ -35,13 +35,13 @@ SOCIAL = (
 MENUITEMS = (
     ('Background', '{siteurl}/pages/background.html'.format(siteurl=SITEURL)),
     ('The science', '{siteurl}/pages/the-science.html'.format(siteurl=SITEURL)),
-    ('Policy', '{siteurl}/pages/policy.html'.format(siteurl=SITEURL)),
-    ('Contribute', '{siteurl}/pages/contribute.html'.format(siteurl=SITEURL)),
     ('Team', '{siteurl}/pages/team.html'.format(siteurl=SITEURL)),
-    ('News', '{siteurl}/category/news.html'.format(siteurl=SITEURL)),
+    ('PREDICTS 1', '{siteurl}/pages/predicts-1.html'.format(siteurl=SITEURL)),
     ('Outputs', '{siteurl}/pages/outputs.html'.format(siteurl=SITEURL)),
+    ('Policy', '{siteurl}/pages/policy.html'.format(siteurl=SITEURL)),
+    ('News', '{siteurl}/category/news.html'.format(siteurl=SITEURL)),
+    ('Get involved', '{siteurl}/pages/get-involved.html'.format(siteurl=SITEURL)),
     ('Earthworm Watch', '{siteurl}/pages/earthworm-watch.html'.format(siteurl=SITEURL)),
-    ('Newsletter', '{siteurl}/pages/newsletter.html'.format(siteurl=SITEURL)),
 )
 
 DEFAULT_PAGINATION = False

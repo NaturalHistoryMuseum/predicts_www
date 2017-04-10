@@ -57,9 +57,8 @@ The PREDICTS database - which will form
 the basis of all our analyses - now has over 3.6 million biodiversity
 records from over 32,000 sites, covering more than 50,000 species.
 
-If you would like your data to play a part, please visit our
-[contribution page]({filename}/pages/contribute.md) or more
-information.
+If you would like your data to play a part, please read about how you can
+[get involved]({filename}/pages/get-involved.md).
 
 Locations from which PREDICTS currently has diversity measurements are
 shown below. We will update this image regularly as the project
