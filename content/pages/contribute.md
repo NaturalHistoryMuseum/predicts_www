@@ -27,7 +27,7 @@ In particular the data we are looking for are as follows:
 * The date(s) that each measurement was taken
 
 If you are interested in contributing to the PREDICTS project, please complete
-[our form](https://docs.google.com/forms/d/13JGRgDAT7Fvv8vxpM_fQZk3Jl4YEmp5yRwYLQEYMJ3o/viewform)
+[our form](https://docs.google.com/forms/d/12hBvdE2iz8zGV3OibJtO2ymR-e30sYrVXVpugrRgjOI/viewform)
 to send details of your data. We will do our best to respond promptly.
 Thanks to the generous contributions of many people we have a large backlog of
 datasets that we have not yet had time to process, so we will not be able to
