@@ -609,7 +609,7 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="JGZ">
+   class="person separator clearfix" id="MB">
 <h3>
   <span itemprop="name">Megan Brown</span> - MRes student
 </h3>
