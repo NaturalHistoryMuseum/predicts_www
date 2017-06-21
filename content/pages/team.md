@@ -583,6 +583,18 @@
   Kara graduated from the University of Chicago in 2015 with a BA in Anthropology and is now pursuing her MRes in Biosystematics at the NHM and Imperial College London. Kara's particular ecological interests are community assembly and, specifically niche-vs-neutral theory, as a framework for considering humans both as members of the ecological community and as strong factors influencing community assembly. Toward that end, Kara is using PREDICTSv1 to investigate how island characteristics create differential effects of anthropogenic disturbance and land use change for native vs alien species.
 </p>
 </div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RG">
+<h3>
+  <span itemprop="name">Ricardo Gonzalez/span> - MRes student
+</h3>
+<img src="../images/team/rg.jpg" class="photo photoportrait photoright"
+     alt="Photo of Ricardo Gonzalez" itemprop="image"/>
+<p itemprop="description">
+ Ricardo received a BS, MS, and PhD in Electrical Engineering from Stanford University in 1991, 1992, and 1997, respectively. After graduation he worked for nearly 20 years in Silicon Valley, first as an individual contributor and later on moving into engineering management. He was a member of the founding team at a number of startups and has worked on semiconductors, server virtualization, enterprise storage, and consumer apps.  His goal for the next 20 years is to help mitigate the impact on biodiversity from human-caused climate change. This year he is pursuing an MRes in Ecosystems and Environmental Change at Imperial College to ramp up his ecological knowledge and to quickly grow a new professional network. He has a broad set of interests; modelling ecosystems and ecosystem change, understanding the value of ecosystems, and developing or altering property rights to protect the environment.
+</p>
+</div>
 <!-- PAST PROJECT MEMBERS HERE -->
 
 <div class="text-center">
