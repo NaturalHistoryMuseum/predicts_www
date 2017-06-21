@@ -608,6 +608,18 @@
 </p>
 </div>
 
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="JGZ">
+<h3>
+  <span itemprop="name">Megan Brown</span> - MRes student
+</h3>
+<img src="../images/team/mb.jpg" class="photo photoportrait photoright"
+     alt="Photo of Megan Brown" itemprop="image"/>
+<p itemprop="description">
+ Megan graduated from Oxford University in 2016 with a BA in Biological Sciences and is currently undertaking an MSc in Taxonomy and Biodiversity at Imperial College London. Her PREDICTS project will focus on combining data from PREDICTSv1 and PREDICTSv2 into a shared analytical framework then analyzing this data using mixed-effects models. 
+</p>
+</div>
+
 <!-- PAST PROJECT MEMBERS HERE -->
 
 <div class="text-center">
