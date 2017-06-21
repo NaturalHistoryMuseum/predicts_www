@@ -587,7 +587,7 @@
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="RG">
 <h3>
-  <span itemprop="name">Ricardo Gonzalez/span> - MRes student
+  <span itemprop="name">Ricardo Gonzalez</span> - MRes student
 </h3>
 <img src="../images/team/rg.jpg" class="photo photoportrait photoright"
      alt="Photo of Ricardo Gonzalez" itemprop="image"/>
@@ -595,6 +595,19 @@
  Ricardo received a BS, MS, and PhD in Electrical Engineering from Stanford University in 1991, 1992, and 1997, respectively. After graduation he worked for nearly 20 years in Silicon Valley, first as an individual contributor and later on moving into engineering management. He was a member of the founding team at a number of startups and has worked on semiconductors, server virtualization, enterprise storage, and consumer apps.  His goal for the next 20 years is to help mitigate the impact on biodiversity from human-caused climate change. This year he is pursuing an MRes in Ecosystems and Environmental Change at Imperial College to ramp up his ecological knowledge and to quickly grow a new professional network. He has a broad set of interests; modelling ecosystems and ecosystem change, understanding the value of ecosystems, and developing or altering property rights to protect the environment.
 </p>
 </div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="JGZ">
+<h3>
+  <span itemprop="name">Juan Gallego Zamorano</span> - MRes student
+</h3>
+<img src="../images/team/jgz.jpg" class="photo photoportrait photoright"
+     alt="Photo of Juan Gallego Zamorano" itemprop="image"/>
+<p itemprop="description">
+ Juan graduated in 2015 from the Complutense University of Madrid with a BSc in Biology, he did the last 12 months in Helsinki (Finland) where he did the BSc thesis with the Helsinki Lab of Ornithology at the LUOMUS (Finnish Museum of Natural History). He is currently undertaking a double MSc in “Nature Conservation” and “Environmental Data Science”, at the Life Science University of Prague (Czech Republic), and Cranfield University (UK). On his project, he is using the PREDICTS database to investigate the influence of connectivity on site-level biodiversity on flower-visitors in Europe, a factor absents so far from many models of biotic responses to human impacts. He is passionate about birds, he is an active trainee bird ringer and helped during 4 months in an owls rescue centre (Brinzal) in Madrid.
+</p>
+</div>
+
 <!-- PAST PROJECT MEMBERS HERE -->
 
 <div class="text-center">
