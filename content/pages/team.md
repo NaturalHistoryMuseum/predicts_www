@@ -501,6 +501,51 @@
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="ST">
+<h3>
+  <span itemprop="name">Sophie Tudge</span> - MRes student
+</h3>
+<img src="../images/team/st.jpg" class="photo photoportrait photoright"
+     alt="Photo of Sophie Tudge" itemprop="image"/>
+<p itemprop="description">
+  I graduated from the University of Birmingham in 2017 with a degree in Environmental Science and went straight into an MRes in Ecology, Evolution and Conservation at Imperial, which I'm currently studying for. My project with the PREDICTS team will focus on balancing food production and biodiversity persistence, by investigating how agricultural yield influences biodiversity.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RT">
+<h3>
+  <span itemprop="name">Rachael Thornley</span> - MRes student
+</h3>
+<img src="../images/team/rt.jpg" class="photo photoportrait photoright"
+     alt="Photo of Rachael Thornley" itemprop="image"/>
+<p itemprop="description">
+  Rachael is currently studying an MRes in Ecology, Evolution and Conservation at Imperial College. She has spent the last 10 years working in applied ecology and land management within a UK and European context, most recently as a reserve manager for Surrey Wildlife Trust. She has an undergraduate degree in Natural Sciences from the Open University and has also studied a post-graduate certificate in Biological Recording with Manchester Metropolitan University. She is interested in vegetation community ecology, how land use affects biodiversity and how research can be better utilised to maximise biodiversity in modified landscapes. Her Project at PREDICTS will be using the ‘PREDICTS 2’ data set to compare different types of experimental data.
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="CLM">
+<h3>
+  <span itemprop="name">Charlotte Le Marquand</span> - MRes student
+</h3>
+<img src="../images/team/clm.jpg" class="photo photoportrait photoright"
+     alt="Photo of Charlotte Le Marquand" itemprop="image"/>
+<p itemprop="description">
+  Having graduated with a BSc Honours degree in Zoology from Swansea University in 2017, Charlie is now undertaking her MRes in Ecology, Evolution and Conservation at Imperial College London. Her project will use the PREDICTS2 database to investigate how urbanisation is affecting local biodiversity.
+
+</div>
+
+
+
+<!-- PAST PROJECT MEMBERS HERE -->
+
+<div class="text-center">
+  <div class="btn btn-primary btn-lg toggleButton">Past project members</div>
+</div>
+
+<div class="pastMembers" style="display: none">
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="JB">
 <h3>
   <span itemprop="name">Jack Bonnick</span> - MRes student
@@ -595,15 +640,6 @@
  Norah is a Masters student at Imperial College London studying Ecological Applications. She received her BSFS in Science, Technology and International Affairs at Georgetown University in 2015. After completing her BSFS she worked at an agroforestry investment and forestry consulting firm, which sparked her interest in communal land management. Her project will focus on whether local biodiversity is higher or lower in areas managed by Indigenous Peoples and local communities. 
 </p>
 </div>
-
-<!-- PAST PROJECT MEMBERS HERE -->
-
-<div class="text-center">
-  <div class="btn btn-primary btn-lg toggleButton">Past project members</div>
-</div>
-
-<div class="pastMembers" style="display: none">
-
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
      class="person separator clearfix" id="CG">
