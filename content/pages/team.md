@@ -535,7 +535,16 @@
 
 </div>
 
-
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RT">
+<h3>
+  <span itemprop="name">Kate Marfleet</span> - MRes student
+</h3>
+<img src="../images/team/km.jpg" class="photo photoportrait photoright"
+     alt="Photo of Kate Marfleet" itemprop="image"/>
+<p itemprop="description">
+  Kate graduated with a BSc in Biological Sciences from Lancaster University in 2015, before spending 2 years volunteering with the RSPB and ‘The Clyde Marine Mammal project’ in Scotland. Kate is now studying for an MRes in Biodiversity, Evolution and Conservation at UCL and her project with PREDICTS will look at the temporal dynamics of biodiversity response to restoration in Indonesia and Brazil.
+</div>
 
 <!-- PAST PROJECT MEMBERS HERE -->
 
