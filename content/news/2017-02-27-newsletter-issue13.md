@@ -1,4 +1,4 @@
-Title: PREDICTS newsletter, winter 2018
+Title: PREDICTS newsletter, issue 13
 Category: newsletter
 
 The [winter 2018 issue]({filename}/newsletters/PREDICTSNewsletterWinter2018.pdf)
