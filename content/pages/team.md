@@ -500,9 +500,7 @@
   <p>Helen's PhD has been funded by a Hans Rausing Scholarship.</p>
 </div>
 
-
 <!-- PAST PROJECT MEMBERS HERE -->
-
 
 <div class="text-center">
   <div class="btn btn-primary btn-lg toggleButton">Past project members</div>
