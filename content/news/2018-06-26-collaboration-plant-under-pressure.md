@@ -1,0 +1,6 @@
+Title:New collaboration: “Plants Under Pressure”
+
+The PREDICTS team is assessing the performance of two core IPBES indicators, the IUCN Sampled Red List Index (SRLI) and the [Biodiversity Intactness Index](http://science.sciencemag.org/content/353/6296/288.full) (BII, produced by PREDICTS), together with the NHM’s [Plants Under Pressure project](http://www.nhm.ac.uk/our-science/our-work/biodiversity/plants-under-pressure.html), in work generously funded by the Prince Albert II of Monaco Foundation. The new project will assess and model plant conservation status and sensitivity to human pressures including land use and climate change within a mutually coherent framework designed to test the respective performance of these leading biodiversity indicators at different ecological and spatial scales, and will produce detailed projections of future plant diversity under a range of scenarios.
+We would like to hear from anyone who has suitable data sets they would be willing to share,
+especially studies with plant abundance or occurrence data collected at multiple sites facing different human impacts (different land use classes or land use intensity) and that were surveyed using the same sampling procedure.
+If you think you might have suitable data please email enquiries@predicts.org.uk
