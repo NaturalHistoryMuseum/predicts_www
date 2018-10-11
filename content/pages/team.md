@@ -544,7 +544,17 @@ $( ".toggleButton" ).click(function() {
 </p>
 </div>
 
-
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="KSO">
+<h3>
+  <span itemprop="name">Calum Maney</span> - MRes student
+</h3>
+<img src="../images/team/cm2.jpg" class="photo photoportrait photoright"
+     alt="Photo of Calum Maney" itemprop="image"/>
+<p itemprop="description">
+  Calum graduated from the University of Cambridge in 2018 with a degree in Natural Sciences. His research so far has focused on land-use change and tropical invertebrate ecology, and he is interested in global patterns in agriculture and biodiversity. His project in PREDICTS will be working with the Science Team at UNEP-WCMC, collecting and analysing data on cocoa agroforestry.
+</p>
+</div>
 
 <!-- PAST PROJECT STUDENTS HERE -->
 
