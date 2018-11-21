@@ -38,7 +38,7 @@ Make sure that `Use Git from the Windows Command Prompt` is check
     https://help.github.com/articles/setting-your-email-in-git/ for more
     information.
 
-4. Clone this repo to your `projects` directory; if this is in `C:\'
+4. Clone this repo to your `projects` directory; if this is in `C:\`
 
     ```
     C:
