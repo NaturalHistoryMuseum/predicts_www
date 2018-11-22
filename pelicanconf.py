@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Trustees of the Natural History Museum, London'
 SITENAME = 'PREDICTS'
 
-SITEURL = 'http://www.predicts.org.uk'
+SITEURL = 'https://www.predicts.org.uk'
 
 PATH = 'content'
 
