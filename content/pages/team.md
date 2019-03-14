@@ -557,6 +557,32 @@ $( ".toggleButton" ).click(function() {
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RC">
+<h3>
+  <span itemprop="name">Richard Cornford</span> - MRes student
+</h3>
+<img src="../images/team/rc.jpg" class="photo photoportrait photoright"
+     alt="Photo of Richard Cornford" itemprop="image"/>
+<p itemprop="description">
+  Richard completed his undergraduate degree in Biological Sciences and has a Master’s in Computational Methods in Ecology and Evolution. He is currently a PhD student at Imperial College London.
+  Richard’s research includes developing machine learning techniques to identify data relevant to biodiversity indicators (such as the Biodiversity Intactness Index) in the the scientific literature. He is also interested in better understanding the spatial representativeness of global biodiversity data and how this influences our confidence/uncertainty in the indicators generated.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="GJ">
+<h3>
+  <span itemprop="name">Galina Jonsson</span> - MRes student
+</h3>
+<img src="../images/team/gj.jpg" class="photo photoportrait photoright"
+     alt="Photo of Galina Jonsson" itemprop="image"/>
+<p itemprop="description">
+  Galina holds degrees in Ecology (BSc Hons) from the University of Edinburgh and in Biodiversity, Evolution and Conservation (MRes) from University College London (UCL).  Her PhD at Imperial College London focuses on the impact of climate change, extreme weather events and land-use change on UK Lepidopterans (butterflies and moths). By integrating historical data from natural history collections with more recent observational records, her research extends the time series of historical biodiversity data upon which future predictions are made. 
+  Galina is funded by NERC through the Grantham Institute’s Science and Solutions for a Changing Planet DTP at Imperial College London.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="EB">
 <h3>
   <span itemprop="name">Emily Buckingham</span> - MRes student
