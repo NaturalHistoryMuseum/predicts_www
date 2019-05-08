@@ -545,21 +545,9 @@ $( ".toggleButton" ).click(function() {
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="RB">
-<h3>
-  <span itemprop="name">Rachel Bates</span> - MRes student
-</h3>
-<img src="../images/team/rb.jpg" class="photo photoportrait photoright"
-     alt="Photo of Rachel Bates" itemprop="image"/>
-<p itemprop="description">
-  Rachel recently graduated from the University of Exeter with a BSc in Conservation Biology and Ecology, and is currently studying for an MRes in Computational Methods in Ecology and Evolution with Imperial College London. Her research project is working with both PREDICTS and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> in order to assess the impacts of land-use change on plants both now and in the future.
-</p>
-</div>
-
-<div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="RC">
 <h3>
-  <span itemprop="name">Richard Cornford</span> - MRes student
+  <span itemprop="name">Richard Cornford</span> - PhD student
 </h3>
 <img src="../images/team/rc.jpg" class="photo photoportrait photoright"
      alt="Photo of Richard Cornford" itemprop="image"/>
@@ -572,7 +560,7 @@ $( ".toggleButton" ).click(function() {
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="GJ">
 <h3>
-  <span itemprop="name">Galina Jonsson</span> - MRes student
+  <span itemprop="name">Galina Jonsson</span> - PhD student
 </h3>
 <img src="../images/team/gj.jpg" class="photo photoportrait photoright"
      alt="Photo of Galina Jonsson" itemprop="image"/>
@@ -581,6 +569,76 @@ $( ".toggleButton" ).click(function() {
   Galina is funded by NERC through the Grantham Institute’s Science and Solutions for a Changing Planet DTP at Imperial College London.
 </p>
 </div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RB">
+<h3>
+  <span itemprop="name">Rachel Bates</span> - MRes student
+</h3>
+<img src="../images/team/rb.jpg" class="photo photoportrait photoright"
+     alt="Photo of Rachel Bates" itemprop="image"/>
+<p itemprop="description">
+  Rachel recently graduated from the University of Exeter with a BSc in Conservation Biology and Ecology, and is currently studying for an MRes in Computational Methods in Ecology and Evolution with Imperial College London. Her research project is working with both PREDICTS and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> in order to assess the impacts of land-use change on plants both now and in the future.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="YY">
+<h3>
+  <span itemprop="name">Yujun Yao</span> - MRes student
+</h3>
+<img src="../images/team/yy.jpg" class="photo photoportrait photoright"
+     alt="Photo of Yujun Yao" itemprop="image"/>
+<p itemprop="description">
+  Yujun recently graduated from Sun Yat-sen University with a BSc in Ecology, and is studying for a Msc in Ecology, Evolution and Conservation at Imperial College London. Her current research project with PREDICTS team is working on <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> to assess how biodiversity in plant assemblages responds to land-use changes in India.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="PW">
+<h3>
+  <span itemprop="name">Patrick Walkden</span> - MRes student
+</h3>
+<img src="../images/team/pw.jpg" class="photo photoportrait photoright"
+     alt="Photo of Patrick Walkden" itemprop="image"/>
+<p itemprop="description">
+  Patrick’s research interests lie in how biodiversity is influenced by environmental change, the provision of ecosystem services, and the interactions driving the function and diversity of ecological communities. He graduated from the University of Sussex in 2017 and is currently undertaking an MRes at Imperial College London in Ecology, Evolution, & Conservation. Previous work includes investigating the influence of large predators of the feeding behaviour of scavenger species in South Africa, and how insularity effects the evolution of functional traits in birds. Within the PREDCITS project Patrick is looking to model bee species sensitivity to land-use and climate change, implementing an additive approach using species distribution models and generalised linear mixed effects models.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="MP">
+<h3>
+  <span itemprop="name">Morgan Peas</span> - MRes student
+</h3>
+<img src="../images/team/mp.jpg" class="photo photoportrait photoright"
+     alt="Photo of Morgan Peas" itemprop="image"/>
+<p itemprop="description">
+  Morgan graduated in 2014 with a BA in Communication Studies from Manchester University (Indiana, USA) and in 2015 with an MS in Marketing Analytics from the University of Rochester (New York, USA). She is currently pursuing an MRes in Ecology, Evolution and Conservation from Imperial College London. With PREDICTS and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a>, her research involves predicting the extinction risk of plants in North America. Her previous work includes fungi research at Kew Gardens, data analytics in the advertising industry and finding the best pastry in the EU.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="CR">
+<h3>
+  <span itemprop="name">Chloe Roberts</span> - MRes student
+</h3>
+<img src="../images/team/cr.jpg" class="photo photoportrait photoright"
+     alt="Photo of Chloe Roberts" itemprop="image"/>
+<p itemprop="description">
+  Chloe is a recent graduate from the University of Derby (BSc Zoology with Psychology) who is currently undertaking a MSc in Taxonomy, Biodiversity and Evolution at Imperial College London in partnership with the London Natural History Museum. Her project with Predict and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> investigates the extinction risk of South American angiosperms using online data repositories, with an interest as to how this can be applied predicting extinction risk in data deficient species. She has previously conducted research on to effects of cultivation intensity in urban allotments on small mammal population and has volunteered as a research assistant for several conservation charities in the Peruvian Amazon and Costa Rica. She is interested in conservation, research and science communication. 
+</p>
+</div>
+
+
+
+<!-- PAST PROJECT STUDENTS HERE -->
+
+<div class="text-center">
+  <div class="btn btn-primary btn-lg toggleButton">Past project students</div>
+</div>
+
+<div class="pastStudents" style="display: none">
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="EB">
@@ -593,14 +651,6 @@ $( ".toggleButton" ).click(function() {
   I graduated from Anglia Ruskin University in 2018 with a degree in Zoology and then progressed to studying an MRes in Biosystematics at Imperial College London. My interests mainly include using Geographical Information Systems (GIS) to assess the current status and trends of biodiversity. For my project with the PREDICTS team, I performed a meta-analysis of the current literature to determine geographic and taxonomic biases within research on the human impacts on lake biodiversity.
 </p>
 </div>
-
-<!-- PAST PROJECT STUDENTS HERE -->
-
-<div class="text-center">
-  <div class="btn btn-primary btn-lg toggleButton">Past project students</div>
-</div>
-
-<div class="pastStudents" style="display: none">
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="CM">
