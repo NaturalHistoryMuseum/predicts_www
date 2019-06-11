@@ -182,7 +182,7 @@
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
      class="person separator clearfix" id="SC">
   <h3>
-    <span itemprop="name">Sara Contu</span> - Technician
+    <span itemprop="name">Sara Contu</span> - Research Assistant
   </h3>
   <img src="../images/team/sc1.jpg" class="photo photoleft"
        alt="Photo of Sara Contu" itemprop="image"/>
@@ -602,7 +602,7 @@ $( ".toggleButton" ).click(function() {
 <img src="../images/team/pw.jpg" class="photo photoportrait photoright"
      alt="Photo of Patrick Walkden" itemprop="image"/>
 <p itemprop="description">
-  Patrick’s research interests lie in how biodiversity is influenced by environmental change, the provision of ecosystem services, and the interactions driving the function and diversity of ecological communities. He graduated from the University of Sussex in 2017 and is currently undertaking an MRes at Imperial College London in Ecology, Evolution, & Conservation. Previous work includes investigating the influence of large predators of the feeding behaviour of scavenger species in South Africa, and how insularity effects the evolution of functional traits in birds. Within the PREDCITS project Patrick is looking to model bee species sensitivity to land-use and climate change, implementing an additive approach using species distribution models and generalised linear mixed effects models.
+  Patrick’s research interests lie in how biodiversity is influenced by environmental change, the provision of ecosystem services, and the interactions driving the function and diversity of ecological communities. He graduated from the University of Sussex in 2017 and is currently undertaking an MRes at Imperial College London in Ecology, Evolution, & Conservation. Previous work includes investigating the influence of large predators of the feeding behaviour of scavenger species in South Africa, and how insularity effects the evolution of functional traits in birds. Within the PREDICTS project Patrick is looking to model bee species sensitivity to land-use and climate change, implementing an additive approach using species distribution models and generalised linear mixed effects models.
 </p>
 </div>
 
@@ -630,7 +630,29 @@ $( ".toggleButton" ).click(function() {
 </p>
 </div>
 
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RD">
+<h3>
+  <span itemprop="name">Ruben Douglas</span> - MRes student
+</h3>
+<img src="../images/team/rd.jpg" class="photo photoportrait photoright"
+     alt="Photo of Ruben Douglas" itemprop="image"/>
+<p itemprop="description">
+  Ruben is interested in anthropogenic impacts on insect biodiversity and the development of agricultural practices to conserve and regenerate beneficial insect ecosystem services. He graduated from University of Bristol in 2017 (BSc Zoology) and is now an MRes student of Biodiversity, Evolution & Conservation at University College London (UCL). He recently completed a field project investigating the use of social wasps as biological control agents of the Fall Armyworm in small scale farming in Zambia. His current project is looking at techniques to improve assessments of insect biodiversity threats from survey data. 
+</p>
+</div>
 
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="EH">
+<h3>
+  <span itemprop="name">Emily Hay</span> - MRes student
+</h3>
+<img src="../images/team/eh.jpg" class="photo photoportrait photoright"
+     alt="Photo of Emily Hay" itemprop="image"/>
+<p itemprop="description">
+  Emily graduated from the University of Manchester with a BSc in Biology and is currently studying for the MRes in Biodiversity, Evolution and Conservation with University College London. Her current research project will be working with the PREDICTS database to assess how environmental stability underpins heterogeneity in land-use effects on local biodiversity. Previous conservation work has involved monitoring Green turtle populations in the Seychelles. Emily has a keen interest in science communication and wildlife photography. 
+</p>
+</div>
 
 <!-- PAST PROJECT STUDENTS HERE -->
 
