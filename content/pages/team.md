@@ -182,7 +182,7 @@
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
      class="person separator clearfix" id="SC">
   <h3>
-    <span itemprop="name">Sara Contu</span> - Technician
+    <span itemprop="name">Sara Contu</span> - Research Assistant
   </h3>
   <img src="../images/team/sc1.jpg" class="photo photoleft"
        alt="Photo of Sara Contu" itemprop="image"/>
@@ -545,14 +545,112 @@ $( ".toggleButton" ).click(function() {
 </div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
-   class="person separator clearfix" id="KSO">
+   class="person separator clearfix" id="RC">
 <h3>
-  <span itemprop="name">Calum Maney</span> - MRes student
+  <span itemprop="name">Richard Cornford</span> - PhD student
 </h3>
-<img src="../images/team/cm2.jpg" class="photo photoportrait photoright"
-     alt="Photo of Calum Maney" itemprop="image"/>
+<img src="../images/team/rc.jpg" class="photo photoportrait photoright"
+     alt="Photo of Richard Cornford" itemprop="image"/>
 <p itemprop="description">
-  Calum graduated from the University of Cambridge in 2018 with a degree in Natural Sciences. His research so far has focused on land-use change and tropical invertebrate ecology, and he is interested in global patterns in agriculture and biodiversity. His project in PREDICTS will be working with the Science Team at UNEP-WCMC, collecting and analysing data on cocoa agroforestry.
+  Richard completed his undergraduate degree in Biological Sciences and has a Master’s in Computational Methods in Ecology and Evolution. He is currently a PhD student at Imperial College London.
+  Richard’s research includes developing machine learning techniques to identify data relevant to biodiversity indicators (such as the Biodiversity Intactness Index) in the the scientific literature. He is also interested in better understanding the spatial representativeness of global biodiversity data and how this influences our confidence/uncertainty in the indicators generated.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="GJ">
+<h3>
+  <span itemprop="name">Galina Jonsson</span> - PhD student
+</h3>
+<img src="../images/team/gj.jpg" class="photo photoportrait photoright"
+     alt="Photo of Galina Jonsson" itemprop="image"/>
+<p itemprop="description">
+  Galina holds degrees in Ecology (BSc Hons) from the University of Edinburgh and in Biodiversity, Evolution and Conservation (MRes) from University College London (UCL).  Her PhD at Imperial College London focuses on the impact of climate change, extreme weather events and land-use change on UK Lepidopterans (butterflies and moths). By integrating historical data from natural history collections with more recent observational records, her research extends the time series of historical biodiversity data upon which future predictions are made. 
+  Galina is funded by NERC through the Grantham Institute’s Science and Solutions for a Changing Planet DTP at Imperial College London.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RB">
+<h3>
+  <span itemprop="name">Rachel Bates</span> - MRes student
+</h3>
+<img src="../images/team/rb.jpg" class="photo photoportrait photoright"
+     alt="Photo of Rachel Bates" itemprop="image"/>
+<p itemprop="description">
+  Rachel recently graduated from the University of Exeter with a BSc in Conservation Biology and Ecology, and is currently studying for an MRes in Computational Methods in Ecology and Evolution with Imperial College London. Her research project is working with both PREDICTS and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> in order to assess the impacts of land-use change on plants both now and in the future.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="YY">
+<h3>
+  <span itemprop="name">Yujun Yao</span> - MRes student
+</h3>
+<img src="../images/team/yy.jpg" class="photo photoportrait photoright"
+     alt="Photo of Yujun Yao" itemprop="image"/>
+<p itemprop="description">
+  Yujun recently graduated from Sun Yat-sen University with a BSc in Ecology, and is studying for a Msc in Ecology, Evolution and Conservation at Imperial College London. Her current research project with PREDICTS team is working on <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> to assess how biodiversity in plant assemblages responds to land-use changes in India.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="PW">
+<h3>
+  <span itemprop="name">Patrick Walkden</span> - MRes student
+</h3>
+<img src="../images/team/pw.jpg" class="photo photoportrait photoright"
+     alt="Photo of Patrick Walkden" itemprop="image"/>
+<p itemprop="description">
+  Patrick’s research interests lie in how biodiversity is influenced by environmental change, the provision of ecosystem services, and the interactions driving the function and diversity of ecological communities. He graduated from the University of Sussex in 2017 and is currently undertaking an MRes at Imperial College London in Ecology, Evolution, & Conservation. Previous work includes investigating the influence of large predators of the feeding behaviour of scavenger species in South Africa, and how insularity effects the evolution of functional traits in birds. Within the PREDICTS project Patrick is looking to model bee species sensitivity to land-use and climate change, implementing an additive approach using species distribution models and generalised linear mixed effects models.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="MP">
+<h3>
+  <span itemprop="name">Morgan Peas</span> - MRes student
+</h3>
+<img src="../images/team/mp.jpg" class="photo photoportrait photoright"
+     alt="Photo of Morgan Peas" itemprop="image"/>
+<p itemprop="description">
+  Morgan graduated in 2014 with a BA in Communication Studies from Manchester University (Indiana, USA) and in 2015 with an MS in Marketing Analytics from the University of Rochester (New York, USA). She is currently pursuing an MRes in Ecology, Evolution and Conservation from Imperial College London. With PREDICTS and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a>, her research involves predicting the extinction risk of plants in North America. Her previous work includes fungi research at Kew Gardens, data analytics in the advertising industry and finding the best pastry in the EU.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="CR">
+<h3>
+  <span itemprop="name">Chloe Roberts</span> - MRes student
+</h3>
+<img src="../images/team/cr.jpg" class="photo photoportrait photoright"
+     alt="Photo of Chloe Roberts" itemprop="image"/>
+<p itemprop="description">
+  Chloe is a recent graduate from the University of Derby (BSc Zoology with Psychology) who is currently undertaking a MSc in Taxonomy, Biodiversity and Evolution at Imperial College London in partnership with the London Natural History Museum. Her project with Predict and <a href="http://www.nhm.ac.uk/discover/plants-under-pressure.html">Plants Under Pressure</a> investigates the extinction risk of South American angiosperms using online data repositories, with an interest as to how this can be applied predicting extinction risk in data deficient species. She has previously conducted research on to effects of cultivation intensity in urban allotments on small mammal population and has volunteered as a research assistant for several conservation charities in the Peruvian Amazon and Costa Rica. She is interested in conservation, research and science communication. 
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="RD">
+<h3>
+  <span itemprop="name">Ruben Douglas</span> - MRes student
+</h3>
+<img src="../images/team/rd.jpg" class="photo photoportrait photoright"
+     alt="Photo of Ruben Douglas" itemprop="image"/>
+<p itemprop="description">
+  Ruben is interested in anthropogenic impacts on insect biodiversity and the development of agricultural practices to conserve and regenerate beneficial insect ecosystem services. He graduated from University of Bristol in 2017 (BSc Zoology) and is now an MRes student of Biodiversity, Evolution & Conservation at University College London (UCL). He recently completed a field project investigating the use of social wasps as biological control agents of the Fall Armyworm in small scale farming in Zambia. His current project is looking at techniques to improve assessments of insect biodiversity threats from survey data. 
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="EH">
+<h3>
+  <span itemprop="name">Emily Hay</span> - MRes student
+</h3>
+<img src="../images/team/eh.jpg" class="photo photoportrait photoright"
+     alt="Photo of Emily Hay" itemprop="image"/>
+<p itemprop="description">
+  Emily graduated from the University of Manchester with a BSc in Biology and is currently studying for the MRes in Biodiversity, Evolution and Conservation with University College London. Her current research project will be working with the PREDICTS database to assess how environmental stability underpins heterogeneity in land-use effects on local biodiversity. Previous conservation work has involved monitoring Green turtle populations in the Seychelles. Emily has a keen interest in science communication and wildlife photography. 
 </p>
 </div>
 
@@ -563,6 +661,30 @@ $( ".toggleButton" ).click(function() {
 </div>
 
 <div class="pastStudents" style="display: none">
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="EB">
+<h3>
+  <span itemprop="name">Emily Buckingham</span> - MRes student
+</h3>
+<img src="../images/team/eb.jpg" class="photo photoportrait photoright"
+     alt="Photo of Emily Buckingham" itemprop="image"/>
+<p itemprop="description">
+  I graduated from Anglia Ruskin University in 2018 with a degree in Zoology and then progressed to studying an MRes in Biosystematics at Imperial College London. My interests mainly include using Geographical Information Systems (GIS) to assess the current status and trends of biodiversity. For my project with the PREDICTS team, I performed a meta-analysis of the current literature to determine geographic and taxonomic biases within research on the human impacts on lake biodiversity.
+</p>
+</div>
+
+<div itemprop="member" itemscope itemtype="http://schema.org/Person"
+   class="person separator clearfix" id="CM">
+<h3>
+  <span itemprop="name">Calum Maney</span> - MRes student
+</h3>
+<img src="../images/team/cm2.jpg" class="photo photoportrait photoright"
+     alt="Photo of Calum Maney" itemprop="image"/>
+<p itemprop="description">
+  Calum graduated from the University of Cambridge in 2018 with a degree in Natural Sciences. His research so far has focused on land-use change and tropical invertebrate ecology, and he is interested in global patterns in agriculture and biodiversity. His project in PREDICTS will be working with the Science Team at UNEP-WCMC, collecting and analysing data on cocoa agroforestry.
+</p>
+</div>
 
 <div itemprop="member" itemscope itemtype="http://schema.org/Person"
    class="person separator clearfix" id="ST">
