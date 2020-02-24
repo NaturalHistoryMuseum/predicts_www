@@ -1,6 +1,6 @@
 Title: Andy Purvis, Victoria Burton and Sam Hill attending the World Biodiversity Forum this week
 
-Andy Purvis, Victoria Burton and Sam Hill will be in Davos this week representing the PREDICTS Project at the World Biodiversity Forum.
+Andy Purvis, Victoria Burton and Sam Hill will be in Davos, Switzerland this week representing the PREDICTS Project at the World Biodiversity Forum.
 
 Andy will be talking about 'Biodiversity Loss: Drivers, Consequences and Mitigation', while Sam Hill will be discussing 'Turning Back the clock on biodiversity loss: Past and future impacts of land use and population on biodiversity intactness and species richness'. PREDICTS has worked hard on developing and improving the Biodiversity Intactness Index (BII) so that it help to track biodiversity changes over time and predict changes into the future. See here fore more information about BII: https://doi.org/10.6084/m9.figshare.11890119.v2
 If you would like more detailed information on how BII is calculated, see here: https://adrianadepalma.github.io/BII_tutorial/bii_example.html
